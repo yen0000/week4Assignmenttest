@@ -18,7 +18,7 @@
     width: 100;
   }
   
-  div.left, div.middle, div.right{
+  div.left, div.middle, div, right{
     border: 3px dotted green;
     width: 30%;
   }
